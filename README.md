@@ -9,3 +9,4 @@ the color warnings will update every minute so that the user is sure to have the
 
 -link:
 
+https://0blockaye0.github.io/Workday-Scheduler/
